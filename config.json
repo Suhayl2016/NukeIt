@@ -1,0 +1,15 @@
+{
+    "token": "Replace with token",
+    "prefix": "¿",
+    "color": "#BOOB69",
+
+    "server-name": "Replace with server name",
+
+    "spam-message": "@everyone replace this",
+    "spam-amount": "3",
+
+    "role-names": ["replace1", "replace2"],
+    "role-amount": "25",
+    "channel-names": ["replace1", "replace2"],
+    "channel-amount": "50"
+}
